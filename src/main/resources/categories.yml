@@ -1,0 +1,18 @@
+categories:
+    "default":
+        title: "&8&lDEFAULT"
+        rows: 3
+        borders:
+            "gray":
+                material: "GRAY_STAINED_GLASS_PANE"
+                name: " "
+                lore: []
+                slots:
+                    - "0-26"
+        items:
+            "roundtable":
+                type: "ARMOR_STAND_HELMET"
+                material: "LEATHER_HORSE_ARMOR"
+                name: "&cRoundtable"
+                lore: []
+                custom-model-data: 9

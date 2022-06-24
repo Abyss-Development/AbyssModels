@@ -1,0 +1,18 @@
+menus:
+    "categories":
+        title: "&8&lCATEGORIES"
+        rows: 3
+        borders:
+            "gray":
+                material: "GRAY_STAINED_GLASS_PANE"
+                name: " "
+                lore: []
+                slots:
+                    - "0-26"
+        items:
+            "default-category":
+                slot: 14
+                category: "default"
+                material: "CHEST"
+                name: "&cDefault Category"
+                lore: []

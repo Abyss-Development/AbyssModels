@@ -1,0 +1,8 @@
+name: AbyssModels
+version: '1.0.0'
+main: net.abyssdev.abyssmodels.AbyssModels
+api-version: 1.17
+depend:
+    - AbyssLib
+authors:
+    - Relocation

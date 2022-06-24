@@ -1,0 +1,11 @@
+messages:
+    "no-permission":
+        sound:
+            enabled: true
+            value: "FIZZ"
+            volume: 1
+            pitch: 1
+        message:
+            enabled: true
+            value:
+                - "&c&lAbyss &8- &cYou cannot do this."
